@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'http://Travelease-backend-env.eba-ynimte6r.us-east-1.elasticbeanstalk.com/api';
 
 // Create axios instance
 const api = axios.create({
