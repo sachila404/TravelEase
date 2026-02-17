@@ -276,25 +276,6 @@ Your browser should automatically open to: http://localhost:3000
 
 ## 🎓 For Your University Presentation
 
-### What to Say:
-"I built a full-stack web application called TravelEase that helps users discover and plan their travel destinations."
-
-### Technical Stack:
-- **Frontend:** React.js (JavaScript framework)
-- **Backend:** Node.js with Express (REST API)
-- **Database:** SQLite (lightweight SQL database)
-- **Authentication:** JWT (JSON Web Tokens)
-- **APIs:** Google Maps API, OpenWeather API
-- **Security:** Bcrypt password hashing
-
-### Features to Demo:
-1. **Show homepage** - explain the concept
-2. **Register a new account** - show authentication
-3. **Login** - show security
-4. **Explore destinations** - show search and filtering
-5. **Click a destination** - show map and weather integration
-6. **Add to favorites** - show database interaction
-7. **View favorites** - show user-specific data
 
 ### Architecture:
 ```
@@ -362,23 +343,6 @@ All users and favorites will be deleted, and sample destinations will be re-adde
 
 ---
 
-## ✅ Success Checklist
-
-Before submitting, make sure:
-- [ ] Can register new user
-- [ ] Can login with existing user
-- [ ] Can search destinations
-- [ ] Map shows when clicking destination
-- [ ] Weather displays for destination
-- [ ] Can add to favorites
-- [ ] Can view favorites
-- [ ] Can remove from favorites
-- [ ] All 10 destinations show on Explore page
-- [ ] Dashboard shows correct stats
-- [ ] Navigation works properly
-- [ ] Can logout and login again
-
-If all checked, your app is complete! 🎉
 
 ---
 
@@ -389,7 +353,6 @@ If all checked, your app is complete! 🎉
 - Testing: 20 min
 - **Total: ~1 hour to get running**
 
-Then you can use it, test it, take screenshots, and prepare your presentation!
 
 ---
 
@@ -404,4 +367,3 @@ If you get completely stuck:
 
 Remember: Most errors are typos in API keys or forgetting to start the backend first!
 
-Good luck! You've got this! 🚀
