@@ -108,18 +108,6 @@ travelease-fullstack/
 
 ---
 
-## ✅ Pre-Submission Checklist
-
-- [ ] Can register new user
-- [ ] Can login
-- [ ] Can search destinations
-- [ ] Map shows correctly
-- [ ] Weather displays
-- [ ] Can add favorites
-- [ ] Can remove favorites
-- [ ] Screenshots taken
-- [ ] Report written
-
 ---
 
 ## 🎯 Demo Flow (5 minutes)
@@ -196,29 +184,5 @@ kill -9 <PID>
 
 ---
 
-## 💡 Tips
-
-1. **Always start backend first!**
-2. **Keep both terminals open while using app**
-3. **Check browser console (F12) for errors**
-4. **Database file stores all data**
-5. **API keys must be valid**
-6. **Chrome works best**
 
 ---
-
-## 🎓 For Presentation
-
-**Opening:** "I built TravelEase, a full-stack web application that helps users discover and save their favorite travel destinations."
-
-**Tech Stack:** "It uses React for the frontend, Node.js for the backend, SQLite for the database, and integrates with Google Maps and OpenWeather APIs."
-
-**Features:** "Users can register, login, search destinations, view them on a map with real-time weather, and save their favorites."
-
-**Architecture:** "It follows a client-server architecture with RESTful APIs and JWT authentication."
-
-**Closing:** "This project demonstrates full-stack development skills including frontend design, backend API development, database management, and third-party API integration."
-
----
-
-Print this card and keep it nearby! 📄
