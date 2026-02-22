@@ -10,7 +10,10 @@ const db = require('./database');
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(cors({
+  origin: ['http://localhost:3000', 'https://travelease-7qkz2wj96-sachila404s-projects.vercel.app', 'https://travelease-sachila404s-projects.vercel.app'],
+  credentials: true
+}));
 app.use(express.json());
 
 // JWT verification middleware
