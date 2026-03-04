@@ -11,7 +11,7 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: ['http://localhost:3000', 'https://travelease-7qkz2wj96-sachila404s-projects.vercel.app', 'https://travelease-sachila404s-projects.vercel.app'],
+  origin: ['http://localhost:3000', 'https://travel-ease-wkwc.vercel.app'],
   credentials: true
 }));
 app.use(express.json());
